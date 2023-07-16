@@ -1,12 +1,12 @@
-# Business Intelligence and Big Data Analytics
+# Big Data Architecture and Big Data processing
 
 This repository contains the material, datasets and notebooks used during our programs in *Big Data Architecture* and *Big Data processing*.
 
 In particular, the material covers the course of *Big Data Architecture* and *Big Data processing*.
 
 The repository is so organized:
-- [notebooks](https://github.com/mauropelucchi/bibda_2023/tree/main/notebooks): notebooks used during the course (scraping, spark, ...)
-- [datasets](https://github.com/mauropelucchi/bibda_2023/tree/main/datasets): example datasets useful and ready for data processing exercises
+- [notebooks](https://github.com/mauropelucchi/bigdata/tree/main/notebooks): notebooks used during the course (scraping, spark, ...)
+- [datasets](https://github.com/mauropelucchi/bigdata/tree/main/datasets): example datasets useful and ready for data processing exercises
 
 
 # MIT License
